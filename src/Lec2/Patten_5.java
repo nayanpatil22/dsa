@@ -14,12 +14,12 @@ public class Patten_5 {
 		while(row <= n) {
 			int i = 1;
 			while(i <= space) {
-				System.out.print("  ");
+				System.out.print("   ");
 				i++;
 			}
 			int j = 1;
 			while(j <= star) {
-				System.out.print("* ");
+				System.out.print("*  ");
 				j++;
 			}
 			row++;
